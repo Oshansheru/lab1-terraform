@@ -5,6 +5,8 @@
 *.tfstate
 *.tfstate.*
 
+!example.tfvars
+
 # Crash log files
 crash.log
 crash.*.log
