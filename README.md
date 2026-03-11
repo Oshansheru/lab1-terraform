@@ -1,6 +1,6 @@
 # lab1-terraform
 
-![Terraform CI](https://github.com/Oshansheru/lab1-terraform/actions/workflows/terraform.yml/badge.svg)
+![Terraform CI](https://github.com/Oshansheru/lab1-terraform/.github/workflows/terraform.yml/badge.svg)
 
 # Lab 1 – Terraform VM on GCP
 
