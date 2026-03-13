@@ -22,11 +22,11 @@ and lastly run : terraform apply
 
 # screenshot of working vm
 
-<img alt="Skärmbild" src="Skärmbild 2026-03-13 215559.png"/>
+<img alt="Skärmbild" src="assets/Skärmbild 2026-03-13 215559.png"/>
 
 ## Security decisions
 
 This VM includes a few basic security measures to reduce risk and improve system safety. `ufw` is used as a simple firewall to block unwanted incoming traffic while still allowing SSH access. `fail2ban` helps protect the server from repeated login attempts, especially against brute-force attacks on SSH. `unattended-upgrades` is installed to automatically apply important security updates so the system stays patched. A daily snapshot backup policy is also included to improve recovery in case something goes wrong with the VM or disk.
 
 # #meafterimdone
-![Pipeline demo](seal-spinning-around.gif)
+![Pipeline demo](assets/seal-spinning-around.gif)
